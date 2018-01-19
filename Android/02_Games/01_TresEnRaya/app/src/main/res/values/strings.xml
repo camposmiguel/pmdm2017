@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">01_TresEnRaya</string>
+    <string name="idioma">es</string>
+    <string name="app_name">3 en Raya</string>
+    <string name="text_view_vs">VS</string>
 </resources>
